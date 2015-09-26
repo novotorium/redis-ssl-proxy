@@ -7,3 +7,4 @@ long_description 'Installs/Configures ssl-tunnel-for-redis'
 version '0.1.0'
 
 depends 'redisio', '~> 2.3.0'
+depends 'stunnel', '~> 2.1.0'
